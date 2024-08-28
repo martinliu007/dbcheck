@@ -1,0 +1,12 @@
+CheckDBList:
+  - 10.254.90.171
+  - 10.254.90.191
+CheckDBPort: 3306
+CheckDBUsername: dbcheck_r
+CheckDBPassword: Id8G7Gc1e
+
+DBHost: 10.254.90.148
+DBPort: 3306
+DBUsername: dbcheck_rw
+DBPassword: Id81G_ca91
+DBName: dbcheck
